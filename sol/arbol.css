@@ -8,6 +8,7 @@ h2{
    
     text-align: center;
     background-color:#c0c0c0;
+    
 }
 
 #highlight {
@@ -19,6 +20,8 @@ h2{
     font-style: normal;
     float: right;
     padding: 10px 30px 10px 30px;
+
+
 }
 #highlight2 {
          background-image: linear-gradient(#ffa07a,#FFFAF0);
